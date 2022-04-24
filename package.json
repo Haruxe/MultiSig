@@ -1,0 +1,22 @@
+{
+  "name": "multisig0.1",
+  "version": "1.0.0",
+  "description": "Multi signature wallet project",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haruxe/MultiSig.git"
+  },
+  "author": "Josh Francisco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Haruxe/MultiSig/issues"
+  },
+  "homepage": "https://github.com/Haruxe/MultiSig#readme"
+}
